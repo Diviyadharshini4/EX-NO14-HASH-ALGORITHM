@@ -67,7 +67,7 @@ return 0;
 ```
 
 ## Output:
-[divi 14.pdf](https://github.com/user-attachments/files/26042059/divi.14.pdf)
+<img width="656" height="298" alt="image" src="https://github.com/user-attachments/assets/664bfc3d-228a-4bca-a5c6-04d5b1af8ddd" />
 
 ## Result:
 The program is executed successfully.
